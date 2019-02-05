@@ -1,3 +1,21 @@
+                                                           <<<ARTIKEL>>>
+
+Laravel dibangun oleh Taylor Otwell pada tanga; 22 Februari 2012 lalu. Framework ini merupakan framework PHP open source dengan desain MVC (Model-View-Controller) yang digunakan untuk membangun sebuah aplikasi situs web.
+
+Pada artikel ini saya akan menjelaskan sedikit tentang Laravel, dari dimulai cara menginstal laravel sampai membuat halaman pertama menggunakan framework ini. Laravel juga merupakan frmework PHP yang membuat kodingan menjadi lebih singkat, mudah dimengerti, dan ekspressif sehingga hanya dengan membaca sekilas dari kode yang ditulis kita sudah bisa menduga apa maksudnya tanpa perlu melihat dokumentasi.
+
+Ada beberapa cara sebtulnya untuk menginstal laravel, namun pada artikel ini saya akan menginstal laravel mengunkan metode composer yaitu dengan menggunaka perintah composer create-project. Metode ini sangat di rekomendasikan karena composer akan mengurus segala ketergantungan laavel dengan library lainya. Dengan kata lain, kita perlu mengunduh satu persatu library yang dibutuhkan.
+Setelah selesai menginstal composer, selanjutnya kita akan menginstal laravel dengan menggunakan perintah coomposer create-project pada commmand prompt (CMD) yang terdapat pada sistem operasi Windows. karena pada artikel ini menggunkan XAMMP, maka kiata akan menginstal laravel pada folder C:/xampp/htdocs/.
+
+Project-name merupakan nama dari sebuah proyek yang kita buat, silakan isi nama sesuai dengan keingina. Pada kasus ini saya beri nama proyek belajarLaravel. setelah itu kita hanya perlu menunggu laravel terpasang pada komputer kita dengan nama proyek yang sudah dibuat. Harus kita ingat bahwa pengerjaan ini membutuhkan koneksi internet.
+
+Dan membutuhkan beberapa saat pada waktu menginstal.
+
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
